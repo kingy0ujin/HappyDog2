@@ -1,6 +1,6 @@
 # 행복하개 (Happy-Dog)
-
-초보 견주를 위한 올인원 AI 펫케어 애플리케이션
+## 초보 견주를 위한 올인원 AI 펫케어 애플리케이션
+![전체샷](./assets/happydog_full.bmp)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](#)
@@ -22,90 +22,41 @@
 안구 질환 스크리닝 기능은 임상 진단을 대체하지 않는 보조 도구로 설계되었습니다.
 
 ## 데모 및 주요 기능
-
-<table>
-<tr>
-<td width="45%" valign="top">
-
-**펫케어**
-
+ 
+### 펫케어
+ 
 사료·활동·체중 등 건강 지표 기록·관리, 견종 백과사전·건강 설문지 제공. 눈 사진 기반 AI 안구 검사로 결막염·백내장·궤양성 각막질환·안검내반증 가능성 추정
+ 
+<p float="left">
+  <img src="./assets/기록.gif" width="150" />
+  <img src="./assets/백과사전.gif" width="150" />
+  <img src="./assets/설문지.gif" width="150" />
+  <img src="./assets/안구질환.gif" width="150" />
+</p>
 
-</td>
-<td width="55%" valign="top">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-![기록](./assets/기록.gif)<br>기록
-
-</td>
-<td width="50%" align="center">
-
-![백과사전](./assets/백과사전.gif)<br>백과사전
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-![설문지](./assets/설문지.gif)<br>설문지
-
-</td>
-<td width="50%" align="center">
-
-![안구질환](./assets/안구질환.gif)<br>AI 안구 검사
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-<tr>
-<td width="45%" valign="top">
-
-**지도**
-
+### 지도
+ 
 사용자 위치 기준 주변 동물병원·반려견 동반 가능 시설 정보 제공
+ 
+<p float="left">
+  <img src="./assets/지도.gif" width="150" />
+</p>
 
-</td>
-<td width="55%" valign="top">
-
-![지도 데모](./assets/지도.gif)
-
-</td>
-</tr>
-<tr>
-<td width="45%" valign="top">
-
-**멍스타그램**
-
+### 멍스타그램
+ 
 강아지 전용 SNS. 비문 등록 기반 견주 인증으로 신뢰도 있는 커뮤니티 형성
+ 
+<p float="left">
+  <img src="./assets/커뮤니티.gif" width="150" />
+</p>
 
-</td>
-<td width="55%" valign="top">
-
-![멍스타그램 데모](./assets/커뮤니티.gif)
-
-</td>
-</tr>
-<tr>
-<td width="45%" valign="top">
-
-**강아지 번역기**
-
+### 강아지 번역기
+ 
 반려견 행동 영상을 AI가 분석해 감정 및 상태를 자연어로 표시
-
-</td>
-<td width="55%" valign="top">
-
-![강아지 번역기 데모](./assets/강아지번역기.gif)
-
-</td>
-</tr>
-</table>
+ 
+<p float="left">
+  <img src="./assets/강아지번역기.gif" width="150" />
+</p>
 
 ## 핵심 기술
 
