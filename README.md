@@ -28,10 +28,10 @@
 사료·활동·체중 등 건강 지표 기록·관리, 견종 백과사전·건강 설문지 제공. 눈 사진 기반 AI 안구 검사로 결막염·백내장·궤양성 각막질환·안검내반증 가능성 추정
  
 <p float="left">
+ <img src="./assets/안구질환.gif" width="150" />
   <img src="./assets/기록.gif" width="150" />
   <img src="./assets/백과사전.gif" width="150" />
-  <img src="./assets/설문지.gif" width="150" />
-  <img src="./assets/안구질환.gif" width="150" />
+  
 </p>
 
 ### 지도
